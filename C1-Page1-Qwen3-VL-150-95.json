@@ -1,0 +1,389 @@
+[
+  {
+    "text": "OFFICE NATIONAL DE L'EMPLOI",
+    "bbox": [
+      452,
+      73,
+      689,
+      87
+    ]
+  },
+  {
+    "text": "FORMULAIRE C1",
+    "bbox": [
+      494,
+      92,
+      650,
+      106
+    ]
+  },
+  {
+    "text": "DÉCLARATION DE LA SITUATION PERSONNELLE ET FAMILIALE(1)",
+    "bbox": [
+      340,
+      109,
+      706,
+      123
+    ]
+  },
+  {
+    "text": "À COMPLÉTER PAR LE CHÔMEUR (Les chiffres entre parenthèses renvoient à l’explication reprise sur la feuille d’informations)",
+    "bbox": [
+      130,
+      140,
+      877,
+      154
+    ]
+  },
+  {
+    "text": "MON IDENTITÉ",
+    "bbox": [
+      88,
+      170,
+      200,
+      184
+    ]
+  },
+  {
+    "text": "NISS (2) 010722/244-68 YEDOAH Nom ABIGAIL Prénom",
+    "bbox": [
+      88,
+      187,
+      877,
+      207
+    ]
+  },
+  {
+    "text": "22/07/2001 GHANA date de naissance nationalité (3)",
+    "bbox": [
+      88,
+      207,
+      548,
+      227
+    ]
+  },
+  {
+    "text": "L'ADRESSE À LAQUELLE JE RÉSIDE DE MANIÈRE EFFECTIVE (4)",
+    "bbox": [
+      88,
+      237,
+      548,
+      251
+    ]
+  },
+  {
+    "text": "Rue Saint Léonard rue 134 numéro 6031 numéro de boîte",
+    "bbox": [
+      88,
+      251,
+      877,
+      271
+    ]
+  },
+  {
+    "text": "Mooo Liège code_postal commune Belgique pays",
+    "bbox": [
+      88,
+      271,
+      877,
+      291
+    ]
+  },
+  {
+    "text": "abiga3171@gmail.com Adresse e-mail (facultatif) numéro de téléphone (facultatif)",
+    "bbox": [
+      88,
+      291,
+      877,
+      311
+    ]
+  },
+  {
+    "text": "MOTIFS D'INTRODUCTION DE CE FORMULAIRE C1 → Cochez toutes les situations qui vous sont applicables",
+    "bbox": [
+      88,
+      321,
+      877,
+      335
+    ]
+  },
+  {
+    "text": "je demande des allocations à partir du 11/09/2025 comme chômeur temporaire suivant une formation en alternance(5) □ oui X non",
+    "bbox": [
+      88,
+      335,
+      877,
+      355
+    ]
+  },
+  {
+    "text": "(si vous cochez « oui », complétez la rubrique « Ma situation familiale »)",
+    "bbox": [
+      478,
+      355,
+      877,
+      369
+    ]
+  },
+  {
+    "text": "X pour la première fois (5) □ après une interruption de mes allocations (5)",
+    "bbox": [
+      478,
+      369,
+      877,
+      383
+    ]
+  },
+  {
+    "text": "□ je change d'organisme de paiement à partir du (5) ___ / ___ / ____",
+    "bbox": [
+      88,
+      383,
+      548,
+      397
+    ]
+  },
+  {
+    "text": "□ je déclare une modification concernant",
+    "bbox": [
+      88,
+      397,
+      348,
+      411
+    ]
+  },
+  {
+    "text": "□ mon adresse à partir du ___ / ___ / _____",
+    "bbox": [
+      88,
+      411,
+      418,
+      425
+    ]
+  },
+  {
+    "text": "□ la retenue des cotisations syndicales",
+    "bbox": [
+      88,
+      425,
+      388,
+      439
+    ]
+  },
+  {
+    "text": "□ mon permis de séjour ou mon permis de travail",
+    "bbox": [
+      88,
+      439,
+      388,
+      453
+    ]
+  },
+  {
+    "text": "□ ma situation personnelle ou celle des membres de mon ménage (7)",
+    "bbox": [
+      478,
+      411,
+      877,
+      425
+    ]
+  },
+  {
+    "text": "à partir du ___ / ___ / _____",
+    "bbox": [
+      478,
+      425,
+      877,
+      439
+    ]
+  },
+  {
+    "text": "□ le mode de paiement de mes allocations ou mon numéro de compte(6)",
+    "bbox": [
+      478,
+      439,
+      877,
+      453
+    ]
+  },
+  {
+    "text": "à partir du ___ / ___ / _____",
+    "bbox": [
+      478,
+      453,
+      877,
+      467
+    ]
+  },
+  {
+    "text": "MA SITUATION FAMILIALE (8)(23)(24)→ Ne pas compléter si vous demandez des allocations de chômage temporaire, sauf si vous suivez une formation en alternance",
+    "bbox": [
+      88,
+      483,
+      877,
+      497
+    ]
+  },
+  {
+    "text": "X j’habite seul (9)",
+    "bbox": [
+      88,
+      497,
+      238,
+      511
+    ]
+  },
+  {
+    "text": "□ je paie une pension alimentaire en exécution d’une décision judiciaire ou d’un acte notarié (10)",
+    "bbox": [
+      88,
+      511,
+      689,
+      525
+    ]
+  },
+  {
+    "text": "□ je suis séparé(e) de fait et mon conjoint perçoit une partie de mes revenus en exécution d’une décision judiciaire (10)",
+    "bbox": [
+      88,
+      525,
+      689,
+      539
+    ]
+  },
+  {
+    "text": "Remarques : ……………………………………………………………….",
+    "bbox": [
+      88,
+      539,
+      877,
+      553
+    ]
+  },
+  {
+    "text": "□ je cohabite avec (11):",
+    "bbox": [
+      88,
+      553,
+      278,
+      567
+    ]
+  },
+  {
+    "text": "nom, prénom lien de parenté (12) date de naissance allocations familiales (14) activité professionnelle (15) revenus de remplacement (17)",
+    "bbox": [
+      130,
+      567,
+      877,
+      581
+    ]
+  },
+  {
+    "text": "type montant mensuel brut type Montant mensuel brut",
+    "bbox": [
+      548,
+      581,
+      877,
+      595
+    ]
+  },
+  {
+    "text": "1. ………………………………………… ... ………………………………………… __/__/__ ………………………………………… ………………………………………… …………………………………………",
+    "bbox": [
+      88,
+      595,
+      877,
+      609
+    ]
+  },
+  {
+    "text": "2. ………………………………………… ... ………………………………………… __/__/__ ………………………………………… ………………………………………… …………………………………………",
+    "bbox": [
+      88,
+      609,
+      877,
+      623
+    ]
+  },
+  {
+    "text": "3. ………………………………………… ... ………………………………………… __/__/__ ………………………………………… ………………………………………… …………………………………………",
+    "bbox": [
+      88,
+      623,
+      877,
+      637
+    ]
+  },
+  {
+    "text": "4. ………………………………………… ... ………………………………………… __/__/__ ………………………………………… ………………………………………… …………………………………………",
+    "bbox": [
+      88,
+      637,
+      877,
+      651
+    ]
+  },
+  {
+    "text": "5. ………………………………………… ... ………………………………………… __/__/__ ………………………………………… ………………………………………… …………………………………………",
+    "bbox": [
+      88,
+      651,
+      877,
+      665
+    ]
+  },
+  {
+    "text": "Remarques :",
+    "bbox": [
+      88,
+      777,
+      178,
+      791
+    ]
+  },
+  {
+    "text": "NE REMPLIR QUE SI VOTRE PARTENAIRE OU UNE AUTRE PERSONNE (PAS VOTRE ENFANT) EST FINANCIÈREMENT À VOTRE CHARGE (13)",
+    "bbox": [
+      88,
+      807,
+      877,
+      821
+    ]
+  },
+  {
+    "text": "Identité du partenaire ou de la personne à charge : ……………………………………………………………….(nom et prénom)",
+    "bbox": [
+      88,
+      821,
+      877,
+      835
+    ]
+  },
+  {
+    "text": "□ Je le déclare pour la première fois ou je déclare une modification et je joins un FORMULAIRE C1-PARTENAIRE.",
+    "bbox": [
+      88,
+      835,
+      689,
+      849
+    ]
+  },
+  {
+    "text": "□ Ma déclaration précédente sur le FORMULAIRE C1-PARTENAIRE reste inchangée.",
+    "bbox": [
+      88,
+      849,
+      548,
+      863
+    ]
+  },
+  {
+    "text": "Version 01.01.2024/830.10.00 PP. 1 + 2 DESTINÉES AU CHOMEUR FORMULAIRE C1 – P. 1 .be",
+    "bbox": [
+      88,
+      877,
+      877,
+      891
+    ]
+  }
+]

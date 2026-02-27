@@ -1,0 +1,749 @@
+[
+  {
+    "text": "OFFICE NATIONAL DE L'EMPLOI",
+    "bbox": [
+      452,
+      68,
+      673,
+      83
+    ]
+  },
+  {
+    "text": "FORMULAIRE C1",
+    "bbox": [
+      494,
+      90,
+      630,
+      105
+    ]
+  },
+  {
+    "text": "DÉCLARATION DE LA SITUATION PERSONNELLE ET FAMILIALE(1)",
+    "bbox": [
+      337,
+      108,
+      787,
+      123
+    ]
+  },
+  {
+    "text": "À COMPLÉTER PAR LE CHÔMEUR (Les chiffres entre parenthèses renvoient à l’explication reprise sur la feuille d’informations)",
+    "bbox": [
+      130,
+      140,
+      878,
+      155
+    ]
+  },
+  {
+    "text": "MON IDENTITÉ",
+    "bbox": [
+      88,
+      168,
+      200,
+      183
+    ]
+  },
+  {
+    "text": "NISS (2) 010722/244-68",
+    "bbox": [
+      90,
+      187,
+      372,
+      205
+    ]
+  },
+  {
+    "text": "Nom YEDOAH H",
+    "bbox": [
+      392,
+      187,
+      550,
+      205
+    ]
+  },
+  {
+    "text": "Prénom ABIGAIL",
+    "bbox": [
+      700,
+      187,
+      850,
+      205
+    ]
+  },
+  {
+    "text": "date de naissance 22/07/2001 GHANA nationalité (3)",
+    "bbox": [
+      90,
+      207,
+      550,
+      225
+    ]
+  },
+  {
+    "text": "L'ADRESSE À LAQUELLE JE RÉSIDE DE MANIÈRE EFFECTIVE (4)",
+    "bbox": [
+      90,
+      237,
+      550,
+      252
+    ]
+  },
+  {
+    "text": "Rue Saint Léonard rue",
+    "bbox": [
+      90,
+      256,
+      440,
+      274
+    ]
+  },
+  {
+    "text": "numéro 134 numéro de boîte 6031",
+    "bbox": [
+      610,
+      256,
+      850,
+      274
+    ]
+  },
+  {
+    "text": "code postal commune Mooo Liège Belgique pays",
+    "bbox": [
+      90,
+      276,
+      610,
+      294
+    ]
+  },
+  {
+    "text": "Adresse e-mail (facultatif) abiga3171@gmail.com",
+    "bbox": [
+      90,
+      296,
+      550,
+      314
+    ]
+  },
+  {
+    "text": "numéro de téléphone (facultatif)",
+    "bbox": [
+      610,
+      296,
+      850,
+      314
+    ]
+  },
+  {
+    "text": "MOTIFS D'INTRODUCTION DE CE FORMULAIRE C1 → Cochez toutes les situations qui vous sont applicables",
+    "bbox": [
+      90,
+      326,
+      878,
+      341
+    ]
+  },
+  {
+    "text": "je demande des allocations à partir du 11/09/2025",
+    "bbox": [
+      90,
+      347,
+      470,
+      362
+    ]
+  },
+  {
+    "text": "comme chômeur temporaire suivant une formation en alternance(5) □ oui ☑ non",
+    "bbox": [
+      480,
+      347,
+      878,
+      362
+    ]
+  },
+  {
+    "text": "(si vous cochez « oui », complétez la rubrique « Ma situation familiale »)",
+    "bbox": [
+      480,
+      362,
+      878,
+      377
+    ]
+  },
+  {
+    "text": "☑ pour la première fois (5) □ après une interruption de mes allocations (5)",
+    "bbox": [
+      480,
+      377,
+      878,
+      392
+    ]
+  },
+  {
+    "text": "☐ je change d'organisme de paiement à partir du (5) ___ / ___ / ____",
+    "bbox": [
+      90,
+      397,
+      550,
+      412
+    ]
+  },
+  {
+    "text": "☐ je déclare une modification concernant",
+    "bbox": [
+      90,
+      417,
+      330,
+      432
+    ]
+  },
+  {
+    "text": "☐ mon adresse à partir du ___ / ___ / _____",
+    "bbox": [
+      90,
+      437,
+      410,
+      452
+    ]
+  },
+  {
+    "text": "☐ la retenue des cotisations syndicales",
+    "bbox": [
+      90,
+      457,
+      370,
+      472
+    ]
+  },
+  {
+    "text": "☐ mon permis de séjour ou mon permis de travail",
+    "bbox": [
+      90,
+      477,
+      370,
+      492
+    ]
+  },
+  {
+    "text": "☐ ma situation personnelle ou celle des membres de mon ménage (7)",
+    "bbox": [
+      480,
+      437,
+      878,
+      452
+    ]
+  },
+  {
+    "text": "à partir du ___ / ___ / _____",
+    "bbox": [
+      480,
+      457,
+      878,
+      472
+    ]
+  },
+  {
+    "text": "☐ le mode de paiement de mes allocations ou mon numéro de compte(6)",
+    "bbox": [
+      480,
+      477,
+      878,
+      492
+    ]
+  },
+  {
+    "text": "à partir du ___ / ___ / _____",
+    "bbox": [
+      480,
+      497,
+      878,
+      512
+    ]
+  },
+  {
+    "text": "MA SITUATION FAMILIALE (8)(23)(24)→ Ne pas compléter si vous demandez des allocations de chômage temporaire, sauf si vous suivez une formation en alternance",
+    "bbox": [
+      90,
+      507,
+      878,
+      522
+    ]
+  },
+  {
+    "text": "☑ j'habite seul (9)",
+    "bbox": [
+      90,
+      527,
+      250,
+      542
+    ]
+  },
+  {
+    "text": "☐ je paie une pension alimentaire en exécution d'une décision judiciaire ou d'un acte notarié (10)",
+    "bbox": [
+      90,
+      547,
+      550,
+      562
+    ]
+  },
+  {
+    "text": "☐ je suis séparé(e) de fait et mon conjoint perçoit une partie de mes revenus en exécution d'une décision judiciaire (10)",
+    "bbox": [
+      90,
+      567,
+      550,
+      582
+    ]
+  },
+  {
+    "text": "Remarques : ………………………………………….",
+    "bbox": [
+      90,
+      587,
+      878,
+      602
+    ]
+  },
+  {
+    "text": "☐ je cohabite avec (11):",
+    "bbox": [
+      90,
+      607,
+      250,
+      622
+    ]
+  },
+  {
+    "text": "nom, prénom",
+    "bbox": [
+      130,
+      627,
+      230,
+      642
+    ]
+  },
+  {
+    "text": "lien de parenté (12)",
+    "bbox": [
+      290,
+      627,
+      390,
+      642
+    ]
+  },
+  {
+    "text": "date de naissance",
+    "bbox": [
+      410,
+      627,
+      510,
+      642
+    ]
+  },
+  {
+    "text": "allocations familiales (14)",
+    "bbox": [
+      530,
+      627,
+      630,
+      642
+    ]
+  },
+  {
+    "text": "activité professionnelle (15)",
+    "bbox": [
+      650,
+      627,
+      750,
+      642
+    ]
+  },
+  {
+    "text": "revenus de remplacement (17)",
+    "bbox": [
+      770,
+      627,
+      870,
+      642
+    ]
+  },
+  {
+    "text": "type montant mensuel brut (16)",
+    "bbox": [
+      650,
+      642,
+      750,
+      657
+    ]
+  },
+  {
+    "text": "type Montant mensuel brut",
+    "bbox": [
+      770,
+      642,
+      870,
+      657
+    ]
+  },
+  {
+    "text": "1. ………………………………………….",
+    "bbox": [
+      90,
+      667,
+      250,
+      682
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      290,
+      667,
+      390,
+      682
+    ]
+  },
+  {
+    "text": "__/__/__",
+    "bbox": [
+      410,
+      667,
+      510,
+      682
+    ]
+  },
+  {
+    "text": "☐",
+    "bbox": [
+      530,
+      667,
+      630,
+      682
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      650,
+      667,
+      750,
+      682
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      770,
+      667,
+      870,
+      682
+    ]
+  },
+  {
+    "text": "2. ………………………………………….",
+    "bbox": [
+      90,
+      687,
+      250,
+      702
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      290,
+      687,
+      390,
+      702
+    ]
+  },
+  {
+    "text": "__/__/__",
+    "bbox": [
+      410,
+      687,
+      510,
+      702
+    ]
+  },
+  {
+    "text": "☐",
+    "bbox": [
+      530,
+      687,
+      630,
+      702
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      650,
+      687,
+      750,
+      702
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      770,
+      687,
+      870,
+      702
+    ]
+  },
+  {
+    "text": "3. ………………………………………….",
+    "bbox": [
+      90,
+      707,
+      250,
+      722
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      290,
+      707,
+      390,
+      722
+    ]
+  },
+  {
+    "text": "__/__/__",
+    "bbox": [
+      410,
+      707,
+      510,
+      722
+    ]
+  },
+  {
+    "text": "☐",
+    "bbox": [
+      530,
+      707,
+      630,
+      722
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      650,
+      707,
+      750,
+      722
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      770,
+      707,
+      870,
+      722
+    ]
+  },
+  {
+    "text": "4. ………………………………………….",
+    "bbox": [
+      90,
+      727,
+      250,
+      742
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      290,
+      727,
+      390,
+      742
+    ]
+  },
+  {
+    "text": "__/__/__",
+    "bbox": [
+      410,
+      727,
+      510,
+      742
+    ]
+  },
+  {
+    "text": "☐",
+    "bbox": [
+      530,
+      727,
+      630,
+      742
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      650,
+      727,
+      750,
+      742
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      770,
+      727,
+      870,
+      742
+    ]
+  },
+  {
+    "text": "5. ………………………………………….",
+    "bbox": [
+      90,
+      747,
+      250,
+      762
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      290,
+      747,
+      390,
+      762
+    ]
+  },
+  {
+    "text": "__/__/__",
+    "bbox": [
+      410,
+      747,
+      510,
+      762
+    ]
+  },
+  {
+    "text": "☐",
+    "bbox": [
+      530,
+      747,
+      630,
+      762
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      650,
+      747,
+      750,
+      762
+    ]
+  },
+  {
+    "text": "……………………………………….",
+    "bbox": [
+      770,
+      747,
+      870,
+      762
+    ]
+  },
+  {
+    "text": "Remarques :",
+    "bbox": [
+      90,
+      787,
+      170,
+      802
+    ]
+  },
+  {
+    "text": "NE REMPLIR QUE SI VOTRE PARTENAIRE OU UNE AUTRE PERSONNE (PAS VOTRE ENFANT) EST FINANCIÈREMENT À VOTRE CHARGE (13)",
+    "bbox": [
+      90,
+      837,
+      878,
+      852
+    ]
+  },
+  {
+    "text": "Identité du partenaire ou de la personne à charge :",
+    "bbox": [
+      90,
+      857,
+      470,
+      872
+    ]
+  },
+  {
+    "text": "(nom et prénom)",
+    "bbox": [
+      810,
+      857,
+      910,
+      872
+    ]
+  },
+  {
+    "text": "☐ Je le déclare pour la première fois ou je déclare une modification et je joins un FORMULAIRE C1-PARTENAIRE.",
+    "bbox": [
+      90,
+      877,
+      650,
+      892
+    ]
+  },
+  {
+    "text": "☐ Ma déclaration précédente sur le FORMULAIRE C1-PARTENAIRE reste inchangée.",
+    "bbox": [
+      90,
+      897,
+      550,
+      912
+    ]
+  },
+  {
+    "text": "Version 01.01.2024/830.10.00:",
+    "bbox": [
+      90,
+      927,
+      250,
+      942
+    ]
+  },
+  {
+    "text": "PP. 1 + 2 DESTINÉES AU CHOMEUR",
+    "bbox": [
+      452,
+      927,
+      673,
+      942
+    ]
+  },
+  {
+    "text": "FORMULAIRE C1 – P. 1",
+    "bbox": [
+      750,
+      927,
+      878,
+      942
+    ]
+  },
+  {
+    "text": ".be",
+    "bbox": [
+      890,
+      927,
+      930,
+      942
+    ]
+  }
+]
